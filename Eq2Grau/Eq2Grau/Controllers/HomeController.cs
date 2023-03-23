@@ -1,5 +1,7 @@
 ﻿using Eq2Grau.Models;
+
 using Microsoft.AspNetCore.Mvc;
+
 using System.Diagnostics;
 
 namespace Eq2Grau.Controllers
